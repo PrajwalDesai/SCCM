@@ -1,3 +1,4 @@
+<#
 .SYNOPSIS
 Uninstall ConfigMgr Agent
 
